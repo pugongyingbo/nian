@@ -23,7 +23,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/pugongyingbo/nian/blob/master/images/nian.jpg" alt="Sample"  width="250" height="140">
+    <img src="https://github.com/pugongyingbo/nian/blob/master/images/nian.jpg" alt="Sample"  width="250" height="500">
     <p align="center">
         <em>图片示例</em>
     </p>
